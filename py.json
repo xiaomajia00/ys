@@ -1,4 +1,4 @@
-// 配置地址 --> clan://localhost/TVBox/Py/py.json
+// 配置地址 --> https://agit.ai/Ltang/Tvsy/raw/branch/master/py.json
 {
     "wallpaper": "https://picsum.photos/1080",
     "spider": "https://agit.ai/Ltang/Tvsy/raw/branch/master/jar/1008.jar",
@@ -25,7 +25,7 @@
         "searchable": 0,
         "quickSearch": 0,
         "filterable": 1,
-        "ext": "./plugin/py_kunyu77.py"
+        "ext": "./PY/py_kunyu77.py"
     }, {
         "key": " py_中医药",
         "name": "中医药",
@@ -34,7 +34,7 @@
         "searchable": 0,
         "quickSearch": 0,
         "filterable": 1,
-        "ext": "./plugin/py_中医药.py"
+        "ext": "./PY/py_中医药.py"
     }, {
         "key": " py_中国文化",
         "name": "中国文化",
@@ -43,7 +43,7 @@
         "searchable": 0,
         "quickSearch": 0,
         "filterable": 1,
-        "ext": "./plugin/py_中国文化.py"
+        "ext": "./PY/py_中国文化.py"
     }, {
         "key": "py_lezhu",
         "name": "乐猪影视",
@@ -52,7 +52,7 @@
         "searchable": 1,
         "quickSearch": 1,
         "filterable": 1,
-        "ext": "./plugin/py_lezhu.py"
+        "ext": "./PY/py_lezhu.py"
     }, {
         "key": "py_star",
         "name": "星光影视",
@@ -61,7 +61,7 @@
         "searchable": 1,
         "quickSearch": 1,
         "filterable": 1,
-        "ext": "./plugin/py_star.py"
+        "ext": "./PY/py_star.py"
     }, {
         "key": "py_cup",
         "name": "茶杯狐",
@@ -70,7 +70,7 @@
         "searchable": 1,
         "quickSearch": 1,
         "filterable": 1,
-        "ext": "./plugin/py_cup.py"
+        "ext": "./PY/py_cup.py"
     }, {
         "key": "py_douban",
         "name": "豆瓣影视",
@@ -79,7 +79,7 @@
         "searchable": 1,
         "quickSearch": 1,
         "filterable": 1,
-        "ext": "./plugin/py_douban.py"
+        "ext": "./PY/py_douban.py"
     }, {
         "key": "py_3qu",
         "name": "3QU",
@@ -88,7 +88,7 @@
         "searchable": 1,
         "quickSearch": 1,
         "filterable": 1,
-        "ext": "./plugin/py_3qu.py"
+        "ext": "./PY/py_3qu.py"
     }, {
         "key": "py_yixi",
         "name": "一席演讲",
@@ -97,7 +97,7 @@
         "searchable": 1,
         "quickSearch": 1,
         "filterable": 1,
-        "ext": "./plugin/py_yixi.py"
+        "ext": "./PY/py_yixi.py"
     }, {
         "key": "py_cctv",
         "name": "央视",
@@ -106,7 +106,7 @@
         "searchable": 0,
         "quickSearch": 0,
         "filterable": 1,
-        "ext": "./plugin/py_cctv.py"
+        "ext": "./PY/py_cctv.py"
     }, {
         "key": "py_cctv_full",
         "name": "央视大全",
@@ -115,7 +115,7 @@
         "searchable": 0,
         "quickSearch": 0,
         "filterable": 1,
-        "ext": "./plugin/py_cctv_full.py"
+        "ext": "./PY/py_cctv_full.py"
     }, {
         "key": "py_czspp",
         "name": "厂长",
@@ -124,7 +124,7 @@
         "searchable": 1,
         "quickSearch": 1,
         "filterable": 1,
-        "ext": "./plugin/py_czspp.py"
+        "ext": "./PY/py_czspp.py"
     }, {
         "key": "py_cyys",
         "name": "创艺",
@@ -133,7 +133,7 @@
         "searchable": 1,
         "quickSearch": 1,
         "filterable": 1,
-        "ext": "./plugin/py_cyys.py"
+        "ext": "./PY/py_cyys.py"
     }, {
         "key": "py_zxzj",
         "name": "在线之家",
@@ -142,7 +142,7 @@
         "searchable": 1,
         "quickSearch": 1,
         "filterable": 1,
-        "ext": "./plugin/py_zxzj.py"
+        "ext": "./PY/py_zxzj.py"
     }, {
         "key": "py_voflix",
         "name": "Voflix",
@@ -151,7 +151,7 @@
         "searchable": 1,
         "quickSearch": 1,
         "filterable": 1,
-        "ext": "./plugin/py_voflix.py"
+        "ext": "./PY/py_voflix.py"
     }, {
         "key": "py_bilimd",
         "name": "B站影视",
@@ -160,7 +160,7 @@
         "searchable": 1,
         "quickSearch": 1,
         "filterable": 1,
-        "ext": "./plugin/py_bilimd.py"
+        "ext": "./PY/py_bilimd.py"
     }, {
         "key": "py_gimytv",
         "name": "剧迷",
@@ -169,7 +169,7 @@
         "searchable": 1,
         "quickSearch": 1,
         "filterable": 1,
-        "ext": "./plugin/py_gimytv.py"
+        "ext": "./PY/py_gimytv.py"
     }, {
         "key": "py_genmov",
         "name": "跟剧",
@@ -178,7 +178,7 @@
         "searchable": 1,
         "quickSearch": 1,
         "filterable": 1,
-        "ext": "./plugin/py_genmov.py"
+        "ext": "./PY/py_genmov.py"
     }, {
         "key": "py_qie",
         "name": "企鹅体育",
@@ -187,7 +187,7 @@
         "searchable": 0,
         "quickSearch": 0,
         "filterable": 1,
-        "ext": "./plugin/py_qie.py"
+        "ext": "./PY/py_qie.py"
     }, {
         "key": "py_freezb",
         "name": "free直播",
@@ -196,7 +196,7 @@
         "searchable": 0,
         "quickSearch": 0,
         "filterable": 1,
-        "ext": "./plugin/py_freezb.py"
+        "ext": "./PY/py_freezb.py"
     }, {
         "key": "py_jrskbs",
         "name": "体育直播",
@@ -205,7 +205,7 @@
         "searchable": 0,
         "quickSearch": 0,
         "filterable": 1,
-        "ext": "./plugin/py_jrskbs.py"
+        "ext": "./PY/py_jrskbs.py"
     }, {
         "key": "py_huya",
         "name": "虎牙",
@@ -214,7 +214,7 @@
         "searchable": 0,
         "quickSearch": 0,
         "filterable": 1,
-        "ext": "./plugin/py_huya.py"
+        "ext": "./PY/py_huya.py"
     }, {
         "key": "py_douyu",
         "name": "斗鱼",
@@ -223,7 +223,7 @@
         "searchable": 0,
         "quickSearch": 0,
         "filterable": 1,
-        "ext": "./plugin/py_douyu.py"
+        "ext": "./PY/py_douyu.py"
     }, {
         "key": "py_cokemv",
         "name": "COKE",
@@ -232,7 +232,7 @@
         "searchable": 1,
         "quickSearch": 1,
         "filterable": 1,
-        "ext": "./plugin/py_cokemv.py"
+        "ext": "./PY/py_cokemv.py"
     }, {
         "key": "py_libvio",
         "name": "libvio",
@@ -241,7 +241,7 @@
         "searchable": 1,
         "quickSearch": 1,
         "filterable": 1,
-        "ext": "./plugin/py_libvio.py"
+        "ext": "./PY/py_libvio.py"
     }, {
         "key": "py_ddys",
         "name": "低端",
@@ -250,7 +250,7 @@
         "searchable": 1,
         "quickSearch": 1,
         "filterable": 1,
-        "ext": "./plugin/py_ddys2.py"
+        "ext": "./PY/py_ddys2.py"
     }, {
         "key": "py_xmaomi",
         "name": "猫咪",
@@ -259,7 +259,7 @@
         "searchable": 1,
         "quickSearch": 1,
         "filterable": 1,
-        "ext": "./plugin/py_xmaomi.py"
+        "ext": "./PY/py_xmaomi.py"
     }, {
         "key": "py_gitcafe",
         "name": "小纸条",
@@ -268,7 +268,7 @@
         "searchable": 1,
         "quickSearch": 1,
         "filterable": 0,
-        "ext": "./plugin/py_gitcafe.py"
+        "ext": "./PY/py_gitcafe.py"
     }, {
         "key": "py_yiso",
         "name": "易搜",
@@ -277,7 +277,7 @@
         "searchable": 1,
         "quickSearch": 1,
         "filterable": 0,
-        "ext": "./plugin/py_yiso.py"
+        "ext": "./PY/py_yiso.py"
     }, {
         "key": "py_zhaozy",
         "name": "找资源",
@@ -286,7 +286,7 @@
         "searchable": 1,
         "quickSearch": 1,
         "filterable": 0,
-        "ext": "./plugin/py_zhaozy.py"
+        "ext": "./PY/py_zhaozy.py"
     }, {
         "key": "py_alist",
         "name": "Alist",
@@ -295,7 +295,7 @@
         "searchable": 1,
         "quickSearch": 1,
         "filterable": 0,
-        "ext": "./plugin/py_alist.py"
+        "ext": "./PY/py_alist.py"
     }, {
         "key": "py_pansou",
         "name": "盘搜",
@@ -304,7 +304,7 @@
         "searchable": 1,
         "quickSearch": 1,
         "filterable": 0,
-        "ext": "./plugin/py_pansou.py"
+        "ext": "./PY/py_pansou.py"
     }, {
         "key": "push_agent",
         "name": "阿里",
@@ -313,7 +313,7 @@
         "searchable": 0,
         "quickSearch": 0,
         "filterable": 0,
-        "ext": "./plugin/py_ali.py"
+        "ext": "./PY/py_ali.py"
     }],
     "parses": [{
         "name": "默认选项",
