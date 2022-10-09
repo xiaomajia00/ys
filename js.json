@@ -13,7 +13,7 @@
             "name": "豆瓣[DRPY]",
             "type": 3,
             "api": "https://agit.ai/Ltang/Tvsy/raw/branch/master/drpy/lib/drpy.js",
-            "ext": "https://agit.ai/Ltang/Tvsy/raw/branch/master/drpy/js/drpy.js"
+            "ext": "https://agit.ai/Ltang/Tvsy/raw/branch/master/drpy/dr/drpy.js"
         },
         {
             "key": "drpy_js_优酷",
