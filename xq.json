@@ -228,6 +228,16 @@
             "filterable": 1
         },
         {
+            "key": "csp_Nmys",
+            "name": "🌾农民┃SP",
+            "type": 3,
+            "api": "csp_Nmys",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://agit.ai/Ltang/Tvsy/raw/branch/master/sites/nmys.json"
+        },
+        {
             "key": "櫻花",
             "name": "🌸櫻花┃SP",
             "type": 3,
@@ -274,16 +284,6 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0
-        },
-        {
-            "key": "优众影视",
-            "name": "📹优众┃SP",
-            "type": 3,
-            "api": "csp_AppYs",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "http://121.205.88.194:7878/xgapp.php/v2/"
         },
         {
             "key": "Lezhu_spider",
@@ -460,16 +460,6 @@
             "filterable": 1
         },
         {
-            "key": "9E03",
-            "name": "🎈9E03┃SP",
-            "type": 3,
-            "api": "csp_AppYsV2",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://vod.9e03.com/lvdou_api.php/v1.vod"
-        },
-        {
             "key": "多多资源",
             "name": "🍊多多资源",
             "type": 1,
@@ -503,6 +493,15 @@
             "quickSearch": 0,
             "filterable": 1,
             "ext": "https://agit.ai/Ltang/Tvsy/raw/branch/master/sites/🅱️哔哩哔哩.json"
+        },
+        {
+            "key": "dr_兔小贝",
+            "name": "🔃兔小贝",
+            "type": 1,
+            "api": "https://drpy.aqingyuan.repl.co/vod?rule=兔小贝",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0
         },
         {
             "key": "儿童",
@@ -1064,6 +1063,26 @@
             "quickSearch": 1,
             "filterable": 0,
             "ext": "https://agit.ai/Ltang/Tvsy/raw/branch/master/sites/🐲小强影迷.json"
+        },
+        {
+            "key": "看看影视",
+            "name": "🌀看看影视",
+            "type": 3,
+            "api": "csp_XBiubiu",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "https://agit.ai/Ltang/Tvsy/raw/branch/master/sites/👓看看影视.json"
+        },
+        {
+            "key": "超清影视",
+            "name": "🌀超清影视",
+            "type": 3,
+            "api": "csp_XBiubiu",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "https://agit.ai/Ltang/Tvsy/raw/branch/master/sites/🖥超清影视.json"
         },
         {
             "key": "csp_biubiu_骚火电影",
