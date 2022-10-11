@@ -512,7 +512,7 @@
         },
         {
             "key": "csp_biubiu_风车动漫",
-            "name": "🪁风车",
+            "name": "🪁风车┃XB",
             "type": 3,
             "api": "csp_XBiubiu",
             "searchable": 1,
@@ -522,7 +522,7 @@
         },
         {
             "key": "csp_biubiu_OmoFun动漫",
-            "name": "🧚OmoFun",
+            "name": "🧚OmoFun┃XB",
             "type": 3,
             "api": "csp_XBiubiu",
             "searchable": 1,
