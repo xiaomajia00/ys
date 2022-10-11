@@ -511,6 +511,26 @@
             "filterable": 1
         },
         {
+            "key": "csp_biubiu_风车动漫",
+            "name": "🪁风车",
+            "type": 3,
+            "api": "csp_XBiubiu",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "https://agit.ai/Ltang/Tvsy/raw/branch/master/sites/🍭风车动漫.json"
+        },
+        {
+            "key": "csp_biubiu_OmoFun动漫",
+            "name": "🧚OmoFun",
+            "type": 3,
+            "api": "csp_XBiubiu",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "https://agit.ai/Ltang/Tvsy/raw/branch/master/sites/🧚OmoFun动漫.json"
+        },
+        {
             "key": "csp_PY资源",
             "name": "⬇️【PY类资源】⬇️",
             "type": 3,
@@ -1341,26 +1361,6 @@
             "quickSearch": 1,
             "filterable": 0,
             "ext": "https://agit.ai/Ltang/Tvsy/raw/branch/master/sites/👔奇优影院.json"
-        },
-        {
-            "key": "csp_biubiu_风车动漫",
-            "name": "💦风车动漫",
-            "type": 3,
-            "api": "csp_XBiubiu",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "https://agit.ai/Ltang/Tvsy/raw/branch/master/sites/🍭风车动漫.json"
-        },
-        {
-            "key": "csp_biubiu_OmoFun动漫",
-            "name": "💦OmoFun动漫",
-            "type": 3,
-            "api": "csp_XBiubiu",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "https://agit.ai/Ltang/Tvsy/raw/branch/master/sites/🧚OmoFun动漫.json"
         },
         {
             "key": "csp_xbb_乌龟影院",
