@@ -484,6 +484,66 @@
             "filterable": 1
         },
         {
+            "key": "py_3qu",
+            "name": "💡3QU┃PY",
+            "type": 3,
+            "api": "py_3qu",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./PY/py_3qu.py"
+        },
+        {
+            "key": "py_yixi",
+            "name": "💡一席演讲┃PY",
+            "type": 3,
+            "api": "py_yixi",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./PY/py_yixi.py"
+        },
+        {
+            "key": "py_cctv",
+            "name": "💡央视┃PY",
+            "type": 3,
+            "api": "py_cctv",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 1,
+            "ext": "./PY/py_cctv.py"
+        },
+        {
+            "key": "py_cctv_full",
+            "name": "💡央视大全┃PY",
+            "type": 3,
+            "api": "py_cctv_full",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 1,
+            "ext": "./PY/py_cctv_full.py"
+        },
+        {
+            "key": " py_中医药",
+            "name": "💡中医药┃PY",
+            "type": 3,
+            "api": "py_中医药",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 1,
+            "ext": "./PY/py_中医药.py"
+        },
+        {
+            "key": " py_中国文化",
+            "name": "💡中国文化┃PY",
+            "type": 3,
+            "api": "py_中国文化",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 1,
+            "ext": "./PY/py_中国文化.py"
+        },
+        {
             "key": "csp_BBB",
             "name": "🅱️哔哩哔哩",
             "type": 3,
