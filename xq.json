@@ -339,9 +339,18 @@
         },
         {
             "key": "mtv_pc_完美看看",
-            "name": "👹┃完美看看",
+            "name": "👹完美┃T4",
             "type": 4,
             "api": "http://home.jundie.top:666/psp/wmkk.php",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+         {
+            "key": "csp_Lib",
+            "name": "🎉Lib┃SP",
+            "type": 3,
+            "api": "csp_Lib",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
