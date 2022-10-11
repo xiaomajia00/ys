@@ -122,6 +122,15 @@
             "filterable": 0
         },
         {
+            "key": "csp_⬇️网盘资源⬇️",
+            "name": "⬇️【网盘资源】⬇️",
+            "type": 3,
+            "api": "csp_⬇️网盘资源⬇️",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 0
+        },
+        {
             "key": "csp_Alist",
             "name": "🗂Alist",
             "type": 3,
@@ -202,6 +211,15 @@
             "ext": "f1e0b4c83afd47ad9eb2390f56fa36cd"
         },
         {
+            "key": "csp_⬇️SP影视⬇️",
+            "name": "⬇️【SP影视】⬇️",
+            "type": 3,
+            "api": "csp_⬇️SP影视⬇️",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 0
+        },
+        {
             "key": "多多资源",
             "name": "🍊多多",
             "type": 1,
@@ -269,36 +287,6 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "https://agit.ai/Ltang/Tvsy/raw/branch/master/sites/nmys.json"
-        },
-        {
-            "key": "櫻花",
-            "name": "🌸櫻花┃SP",
-            "type": 3,
-            "api": "csp_Ying",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "jar": "https://raw.iqiq.io/FongMi/CatVodSpider/main/jar/custom_spider.jar"
-        },
-        {
-            "key": "巴士",
-            "name": " 🚌巴士┃SP",
-            "type": 3,
-            "api": "csp_Dm84",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "jar": "https://raw.iqiq.io/FongMi/CatVodSpider/main/jar/custom_spider.jar"
-        },
-        {
-            "key": "異界",
-            "name": " 👾異界┃SP",
-            "type": 3,
-            "api": "csp_Ysj",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "jar": "https://raw.iqiq.io/FongMi/CatVodSpider/main/jar/custom_spider.jar"
         },
         {
             "key": "csp_CZSPP",
@@ -465,6 +453,54 @@
             "quickSearch": 1,
             "filterable": 1
         },
+         {
+            "key": "3EDY",
+            "name": "🌴3EDY┃SP",
+            "type": 3,
+            "api": "csp_EEEDY",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "csp_⬇️动漫⬇️",
+            "name": "⬇️【动漫网站】⬇️",
+            "type": 3,
+            "api": "csp_动漫",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 0
+        },
+        {
+            "key": "櫻花",
+            "name": "🌸櫻花┃SP",
+            "type": 3,
+            "api": "csp_Ying",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "jar": "https://raw.iqiq.io/FongMi/CatVodSpider/main/jar/custom_spider.jar"
+        },
+        {
+            "key": "巴士",
+            "name": " 🚌巴士┃SP",
+            "type": 3,
+            "api": "csp_Dm84",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "jar": "https://raw.iqiq.io/FongMi/CatVodSpider/main/jar/custom_spider.jar"
+        },
+        {
+            "key": "異界",
+            "name": " 👾異界┃SP",
+            "type": 3,
+            "api": "csp_Ysj",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "jar": "https://raw.iqiq.io/FongMi/CatVodSpider/main/jar/custom_spider.jar"
+        },
         {
             "key": "csp_Anime1",
             "name": "🌸动漫┃SP",
@@ -475,13 +511,13 @@
             "filterable": 1
         },
         {
-            "key": "3EDY",
-            "name": "🌴3EDY┃SP",
+            "key": "csp_PY资源",
+            "name": "⬇️【PY类资源】⬇️",
             "type": 3,
-            "api": "csp_EEEDY",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
+            "api": "csp_PY资源",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 0
         },
         {
             "key": "py_3qu",
@@ -543,15 +579,14 @@
             "filterable": 1,
             "ext": "./PY/py_中国文化.py"
         },
-        {
-            "key": "csp_BBB",
-            "name": "🅱️哔哩哔哩",
+         {
+            "key": "csp_儿童乐园",
+            "name": "⬇️【儿童乐园】⬇️",
             "type": 3,
-            "api": "csp_Bili",
-            "searchable": 1,
+            "api": "csp_儿童乐园",
+            "searchable": 0,
             "quickSearch": 0,
-            "filterable": 1,
-            "ext": "https://agit.ai/Ltang/Tvsy/raw/branch/master/sites/🅱️哔哩哔哩.json"
+            "filterable": 0
         },
         {
             "key": "dr_兔小贝",
@@ -581,6 +616,25 @@
             "quickSearch": 0,
             "filterable": 1,
             "ext": "https://agit.ai/Ltang/Tvsy/raw/branch/master/sites/🐯学习园地.json"
+        },
+        {
+            "key": "csp_bili天地",
+            "name": "⬇️【bili天地】⬇️",
+            "type": 3,
+            "api": "csp_bili天地",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 0
+        },
+        {
+            "key": "csp_BBB",
+            "name": "🅱️哔哩哔哩",
+            "type": 3,
+            "api": "csp_Bili",
+            "searchable": 1,
+            "quickSearch": 0,
+            "filterable": 1,
+            "ext": "https://agit.ai/Ltang/Tvsy/raw/branch/master/sites/🅱️哔哩哔哩.json"
         },
         {
             "key": "软件",
@@ -735,6 +789,15 @@
             ]
         },
         {
+            "key": "csp_视频直播",
+            "name": "⬇️【视频直播】⬇️",
+            "type": 3,
+            "api": "csp_视频直播",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 0
+        },
+        {
             "key": "csp_XYQBiu_短视频",
             "name": "📱短视频分享",
             "type": 3,
@@ -782,6 +845,15 @@
             "quickSearch": 0,
             "filterable": 0,
             "ext": "https://agit.ai/Ltang/Tvsy/raw/branch/master/sites/斗鱼直播.json"
+        },
+        {
+            "key": "csp_体育快线",
+            "name": "⬇️【体育快线】⬇️",
+            "type": 3,
+            "api": "csp_体育快线",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 0
         },
         {
             "key": "csp_xpath_球迷1",
@@ -832,6 +904,15 @@
             "quickSearch": 0,
             "filterable": 0,
             "ext": "https://agit.ai/Ltang/Tvsy/raw/branch/master/sites/抓饭体育.json"
+        },
+        {
+            "key": "csp_XBiu类影视",
+            "name": "⬇️【XBiu类影视】⬇️",
+            "type": 3,
+            "api": "csp_XBiu类影视",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 0
         },
         {
             "key": "csp_xb_qsp",
@@ -922,6 +1003,15 @@
             "quickSearch": 1,
             "filterable": 0,
             "ext": "https://ikan6.vip/vodshow/{cateId}--------{catePg}---"
+        },
+        {
+            "key": "csp_xBPQ类影视",
+            "name": "⬇️【xBPQ类影视】⬇️",
+            "type": 3,
+            "api": "csp_xBPQ类影视",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 0
         },
         {
             "key": "csp_xBPQ_鸭奈飞",
@@ -1144,6 +1234,15 @@
             "ext": "https://agit.ai/Ltang/Tvsy/raw/branch/master/sites/蓝光影院.json"
         },
         {
+            "key": "csp_XBiubiu类影视",
+            "name": "⬇️【XBiubiu类影视】⬇️",
+            "type": 3,
+            "api": "csp_XBiubiu类影视",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 0
+        },
+        {
             "key": "csp_xbb_剧白白",
             "name": "💦剧白白",
             "type": 3,
@@ -1282,6 +1381,15 @@
             "quickSearch": 1,
             "filterable": 0,
             "ext": "https://agit.ai/Ltang/Tvsy/raw/branch/master/sites/口袋影院.json"
+        },
+        {
+            "key": "csp_XP类影视",
+            "name": "⬇️【XP类影视】⬇️",
+            "type": 3,
+            "api": "csp_XP类影视",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 0
         },
         {
             "key": "csp_xp_mozhatu",
