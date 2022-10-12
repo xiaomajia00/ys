@@ -21,7 +21,7 @@
             "type": "alist"
         },
         {
-            "name": "💂小雅网盘",
+            "name": "👧晓雅网盘",
             "server": "http://101.34.67.237:5244",
             "type": "alist"
         },
@@ -298,6 +298,15 @@
             "filterable": 0
         },
         {
+            "key": "csp_zxzj",
+            "name": "🌐在线┃SP",
+            "type": 3,
+            "api": "csp_Zxzj",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
             "key": "csp_DiDuan",
             "name": "⏮️低端┃SP",
             "type": 3,
@@ -326,15 +335,6 @@
             "ext": ""
         },
         {
-            "key": "mtv_pc_完美看看",
-            "name": "👹完美┃T4",
-            "type": 4,
-            "api": "http://home.jundie.top:666/psp/wmkk.php",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-         {
             "key": "csp_Lib",
             "name": "🎉Lib┃SP",
             "type": 3,
@@ -935,6 +935,16 @@
             "filterable": 0
         },
         {
+            "key": "csp_XBiu_热播库",
+            "name": "❤️热播库┃R",
+            "type": 3,
+            "api": "csp_XBiu",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://www.reboku.cc/s/{cateId}--------{catePg}---.html"
+        },
+        {
             "key": "csp_xb_qsp",
             "name": "❤️氢视频┃R",
             "type": 3,
@@ -943,6 +953,26 @@
             "quickSearch": 1,
             "filterable": 0,
             "ext": "http://h1080p.com/index.php/vod/show/by/{by}/id/{cateId}/page/{catePg}/year/{year}.html"
+        },
+        {
+            "key": "csp_XBiu_REPEN",
+            "name": "❤️RENPE┃R",
+            "type": 3,
+            "api": "csp_XBiu",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://mac.rp123.top/vodshow/{cateId}--------{catePg}---/"
+        },
+        {
+            "key": "csp_XBiu_cokemv",
+            "name": "❤️cokemv┃R",
+            "type": 3,
+            "api": "csp_XBiu",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "https://cokemv.me/index.php/vod/show/id/{cateId}/page/{catePg}.html"
         },
         {
             "key": "csp_xb_jiumeng",
@@ -963,16 +993,6 @@
             "quickSearch": 1,
             "filterable": 0,
             "ext": "https://1080p.tv/vodshow/{cateId}--------{catePg}---"
-        },
-        {
-            "key": "csp_XBiu_cokemv",
-            "name": "❤️cokemv┃R",
-            "type": 3,
-            "api": "csp_XBiu",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "https://cokemv.me/index.php/vod/show/id/{cateId}/page/{catePg}.html"
         },
         {
             "key": "csp_xb_aiku",
@@ -1034,6 +1054,16 @@
             "filterable": 0
         },
         {
+            "key": "csp_热播库",
+            "name": "💯热播酷",
+            "type": 3,
+            "api": "csp_xBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "https://agit.ai/Ltang/Tvsy/raw/branch/master/sites/热播库(xBPQ).json"
+        },
+        {
             "key": "csp_xBPQ_鸭奈飞",
             "name": "💯鸭奈飞",
             "type": 3,
@@ -1052,6 +1082,16 @@
             "quickSearch": 1,
             "filterable": 0,
             "ext": "https://agit.ai/Ltang/Tvsy/raw/branch/master/sites/freeok.json"
+        },
+        {
+            "key": "csp_REPEN",
+            "name": "💯REPEN",
+            "type": 3,
+            "api": "csp_xBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "https://agit.ai/Ltang/Tvsy/raw/branch/master/sites/RENPE(xBPQ).json"
         },
         {
             "key": "csp_xBPQ_LIBVIO",
