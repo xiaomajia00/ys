@@ -14,103 +14,6 @@
             ]
         }
     ],
-    "drives": [
-        {
-            "name": "💂MyAlist",
-            "server": "http://192.168.10.1:5244",
-            "type": "alist"
-        },
-        {
-            "name": "💂小雅网盘",
-            "server": "http://101.34.67.237:5244",
-            "type": "alist"
-        },
-        {
-            "name": "🎢轻弹浅唱",
-            "server": "https://g.xiang.lol",
-            "type": "alist"
-        },
-        {
-            "name": "💂小兵网盘",
-            "server": "https://6vv.app",
-            "type": "alist"
-        },
-        {
-            "name": "🐉神族九帝",
-            "server": "https://alist.shenzjd.com",
-            "type": "alist"
-        },
-        {
-            "name": "🌤晴园宝藏",
-            "server": "https://alist.52qy.repl.co",
-            "type": "alist"
-        },
-        {
-            "name": "🌨秋雨分享",
-            "server": "https://share.laowang.me",
-            "type": "alist"
-        },
-        {
-            "name": "💾DISK",
-            "server": "http://124.222.140.243:8080",
-            "type": "alist"
-        },
-        {
-            "name": "✨星梦",
-            "server": "https://pan.bashroot.top",
-            "type": "alist"
-        },
-        {
-            "name": "🌊小江",
-            "server": "https://dyj.me",
-            "type": "alist"
-        },
-        {
-            "name": "💫触光",
-            "server": "https://pan.ichuguang.com",
-            "type": "alist"
-        },
-        {
-            "name": "🐋一只鱼",
-            "server": "https://alist.youte.ml",
-            "type": "alist"
-        },
-        {
-            "name": "🐭米奇妙妙屋",
-            "server": "https://anime.mqmmw.ga",
-            "type": "alist"
-        },
-        {
-            "name": "🌤七米蓝",
-            "server": "https://al.chirmyram.com",
-            "type": "alist"
-        },
-        {
-            "name": "🌴非盘",
-            "server": "http://www.feifwp.top",
-            "type": "alist"
-        },
-        {
-            "name": "🥼帅盘",
-            "server": "https://hi.shuaipeng.wang",
-            "type": "alist"
-        },
-        {
-            "name": "🌤☃姬路白雪",
-            "server": "https://pan.jlbx.xyz",
-            "type": "alist"
-        },
-        {
-            "name": "💫资源小站",
-            "server": "https://960303.xyz",
-            "type": "alist"
-        },
-        {
-            "name": "🦀9T(Adult)",
-            "server": "https://drive.9t.ee",
-            "type": "alist"
-        }
-    ],
     "sites": [
         {
             "key": "t4public",
@@ -290,6 +193,15 @@
             "ext": "https://agit.ai/Ltang/Tvsy/raw/branch/master/sites/nmys.json"
         },
         {
+            "key": "csp_zxzj",
+            "name": "🌐在线┃SP",
+            "type": 3,
+            "api": "csp_Zxzj",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
             "key": "csp_CZSPP",
             "name": "🏭厂长┃SP",
             "type": 3,
@@ -325,15 +237,6 @@
             "quickSearch": 1,
             "searchable": 1,
             "ext": ""
-        },
-        {
-            "key": "mtv_pc_完美看看",
-            "name": "👹完美┃T4",
-            "type": 4,
-            "api": "http://home.jundie.top:666/psp/wmkk.php",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
         },
          {
             "key": "csp_Lib",
@@ -946,6 +849,26 @@
             "ext": "http://h1080p.com/index.php/vod/show/by/{by}/id/{cateId}/page/{catePg}/year/{year}.html"
         },
         {
+            "key": "csp_XBiu_热播库",
+            "name": "❤️热播库┃R",
+            "type": 3,
+            "api": "csp_XBiu",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://www.reboku.cc/s/{cateId}--------{catePg}---.html"
+        },
+        {
+            "key": "csp_XBiu_REPEN",
+            "name": "❤️RENPE┃R",
+            "type": 3,
+            "api": "csp_XBiu",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://mac.rp123.top/vodshow/{cateId}--------{catePg}---/"
+        },
+        {
             "key": "csp_xb_jiumeng",
             "name": "❤️旧梦影视┃R",
             "type": 3,
@@ -1035,6 +958,16 @@
             "filterable": 0
         },
         {
+            "key": "csp_热播库",
+            "name": "💯热播酷",
+            "type": 3,
+            "api": "csp_xBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "https://agit.ai/Ltang/Tvsy/raw/branch/master/sites/热播库(xBPQ).json"
+        },
+        {
             "key": "csp_xBPQ_鸭奈飞",
             "name": "💯鸭奈飞",
             "type": 3,
@@ -1053,6 +986,16 @@
             "quickSearch": 1,
             "filterable": 0,
             "ext": "https://agit.ai/Ltang/Tvsy/raw/branch/master/sites/freeok.json"
+        },
+        {
+            "key": "csp_REPEN",
+            "name": "💯REPEN",
+            "type": 3,
+            "api": "csp_xBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "https://agit.ai/Ltang/Tvsy/raw/branch/master/sites/RENPE(xBPQ).json"
         },
         {
             "key": "csp_xBPQ_LIBVIO",
