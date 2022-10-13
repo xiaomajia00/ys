@@ -974,7 +974,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "./sites/23影院.json"
+            "ext": "https://agit.ai/Ltang/Tvsy/raw/branch/master/sites/23影院.json"
         },
         {
             "key": "csp_xBPQ_农民",
@@ -984,7 +984,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "./sites/农民影视.json"
+            "ext": "https://agit.ai/Ltang/Tvsy/raw/branch/master/sites/农民影视.json"
         },
         {
             "key": "csp_90影视",
@@ -994,7 +994,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "./sites/90影视网.json"
+            "ext": "https://agit.ai/Ltang/Tvsy/raw/branch/master/sites/90影视网.json"
         },
         {
             "key": "csp_秋霞",
@@ -1004,7 +1004,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "./sites/秋霞电影.json"
+            "ext": "https://agit.ai/Ltang/Tvsy/raw/branch/master/sites/秋霞电影.json"
         },
         {
             "key": "csp_热播库",
