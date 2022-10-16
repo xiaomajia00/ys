@@ -55,14 +55,15 @@
             "ext": "https://agit.ai/Ltang/Tvsy/raw/branch/master/PY/py_alist.py"
         },
         {
-            "key": "Gitcafe",
-            "name": "🔖小纸条",
+            "key": "紙條",
+            "name": "🔖紙條",
             "type": 3,
-            "api": "csp_Gitcafe",
+            "api": "csp_Paper",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "f1e0b4c83afd47ad9eb2390f56fa36cd"
+            "ext": "f1e0b4c83afd47ad9eb2390f56fa36cd",
+            "jar": "https://raw.iqiq.io/FongMi/CatVodSpider/main/jar/custom_spider.jar"
         },
         {
             "key": "FindZY",
@@ -88,21 +89,22 @@
             "key": "csp_Yiso",
             "name": "🔍易搜",
             "type": 3,
-            "api": "csp_Yiso",
+            "api": "csp_YiSo",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
             "ext": "f1e0b4c83afd47ad9eb2390f56fa36cd"
         },
         {
-            "key": "AliPS",
-            "name": "📀盘搜",
+            "key": "PanSou",
+            "name": "📀盤搜",
             "type": 3,
-            "api": "csp_AliPS",
+            "api": "csp_PanSou",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "f1e0b4c83afd47ad9eb2390f56fa36cd"
+            "ext": "f1e0b4c83afd47ad9eb2390f56fa36cd",
+            "jar": "https://raw.iqiq.io/FongMi/CatVodSpider/main/jar/custom_spider.jar"
         },
         {
             "key": "push_agent",
