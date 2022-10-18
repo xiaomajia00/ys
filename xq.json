@@ -152,23 +152,23 @@
         },
         {
             "key": "Gitcafe",
-            "name": "🔖小纸条",
+            "name": "🔖小纸条(PY)",
             "type": 3,
-            "api": "csp_Gitcafe",
+            "api": "py_gitcafe",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "f1e0b4c83afd47ad9eb2390f56fa36cd"
+            "ext": "https://raw.nuaa.cf/lm317379829/PyramidStore/pyramid/plugin/py_gitcafe.py"
         },
         {
             "key": "FindZY",
-            "name": "📇找资源",
+            "name": "📇找资源(PY)",
             "type": 3,
-            "api": "csp_Zhaozy",
+            "api": "py_zhaozy",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "f1e0b4c83afd47ad9eb2390f56fa36cd"
+            "ext": "https://raw.nuaa.cf/lm317379829/PyramidStore/pyramid/plugin/py_zhaozy.py"
         },
         {
             "key": "Upyunso",
@@ -182,33 +182,33 @@
         },
         {
             "key": "csp_Yiso",
-            "name": "🔍易搜",
+            "name": "🔍易搜(PY)",
             "type": 3,
-            "api": "csp_Yiso",
+            "api": "py_yiso",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "f1e0b4c83afd47ad9eb2390f56fa36cd"
+            "ext": "https://raw.nuaa.cf/lm317379829/PyramidStore/pyramid/plugin/py_yiso.py"
         },
         {
             "key": "AliPS",
-            "name": "📀盘搜",
+            "name": "📀盘搜(PY)",
             "type": 3,
-            "api": "csp_AliPS",
+            "api": "py_pansou",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "f1e0b4c83afd47ad9eb2390f56fa36cd"
+            "ext": "https://raw.nuaa.cf/lm317379829/PyramidStore/pyramid/plugin/py_pansou.py"
         },
         {
             "key": "push_agent",
-            "name": "📨推送",
+            "name": "📨推送(PY)",
             "type": 3,
-            "api": "csp_PushAgent",
+            "api": "py_ali",
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 0,
-            "ext": "f1e0b4c83afd47ad9eb2390f56fa36cd"
+            "ext": "https://raw.nuaa.cf/lm317379829/PyramidStore/pyramid/plugin/py_ali.py"
         },
         {
             "key": "csp_⬇️SP影视⬇️",
