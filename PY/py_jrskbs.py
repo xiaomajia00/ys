@@ -50,16 +50,13 @@ class Spider(Spider):
 			img = a.xpath(".//div[@class='contentLeft']/p/img/@src")[0]
 			home = a.xpath(".//div[@class='contentLeft']/p[@class='false false']/text()")[0]
 			away = a.xpath(".//div[@class='contentRight']/p[@class='false false']/text()")[0]
-			infoArray = a.xpath(".//div[@class='contentCenter']/p")
-			remark = ''
-			for info in infoArray:
-				content = info.xpath('string(.)').replace(' ','')
-				remark = remark + '|' + content
+			rmList = a.xpath(".//div[@class='contentCenter']/p/text()")
+			remark = rmList[1].replace('|','').replace(' ','') + '|' + rmList[0]
 			videos.append({
 				"vod_id": aid,
 				"vod_name": home + 'vs' + away,
 				"vod_pic": img,
-				"vod_remarks": remark.strip('|')
+				"vod_remarks": remark
 			})
 		result['list'] = videos
 		result['page'] = pg
@@ -139,13 +136,18 @@ class Spider(Spider):
 					Unicode = int(int(self.regStr(reg=r'O\((.*?)\)', src=info)) / int(pars[0]) / int(pars[1]))
 					char = chr(Unicode % 256)
 					str = str + char
-			url = self.regStr(reg=r"play_url=\'(.*?)\'", src=str)
+			purl = self.regStr(reg=r"play_url=\'(.*?)\'", src=str)
 			result["parse"] = 0
-		else:
-			url = id
+		elif 'v.stnye.cc' in url:
+			purl = id
 			result["parse"] = 1
+		elif 'dplayer' in url:
+			url = 'https://m.jrskbs.com' + url
+			rsp = self.fetch(url)
+			purl = self.regStr(reg=r'var PlayUrl = \"(.*?)\"', src=rsp.text)
+			result["parse"] = 0
 		result["playUrl"] = ''
-		result["url"] = url
+		result["url"] = purl
 		result["header"] = ''
 		return result
 
