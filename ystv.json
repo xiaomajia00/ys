@@ -393,15 +393,6 @@
             "filterable": 1
         },
         {
-            "key": "快看",
-            "name": "👀快看┃SP",
-            "type": 3,
-            "api": "csp_Kuaikan",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-         {
             "key": "3EDY",
             "name": "🌴3EDY┃SP",
             "type": 3,
