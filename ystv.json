@@ -214,15 +214,6 @@
             "jar": "./jar/tangsang.jar"
         },
         {
-            "key": "mtv_pc_完美看看",
-            "name": "👹完美┃T4",
-            "type": 4,
-            "api": "http://home.jundie.top:666/psp/wmkk.php",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
             "key": "csp_DiDuan",
             "name": "⏮️低端┃SP",
             "type": 3,
