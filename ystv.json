@@ -54,7 +54,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "http://刚刚.live/json/alitoken.json",
+            "ext": "https://agit.ai/Ltang/Tvsy/raw/branch/master/token.json",
             "jar": "https://raw.iqiq.io/FongMi/CatVodSpider/main/jar/custom_spider.jar"
         },
         {
@@ -65,7 +65,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "http://刚刚.live/json/alitoken.json"
+            "ext": "https://agit.ai/Ltang/Tvsy/raw/branch/master/token.json"
         },
         {
             "key": "Upyunso",
@@ -75,7 +75,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "http://刚刚.live/json/alitoken.json"
+            "ext": "https://agit.ai/Ltang/Tvsy/raw/branch/master/token.json"
         },
         {
             "key": "csp_Yiso",
@@ -85,7 +85,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "http://刚刚.live/json/alitoken.json"
+            "ext": "https://agit.ai/Ltang/Tvsy/raw/branch/master/token.json"
         },
         {
             "key": "PanSou",
@@ -95,7 +95,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "http://刚刚.live/json/alitoken.json",
+            "ext": "https://agit.ai/Ltang/Tvsy/raw/branch/master/token.json",
             "jar": "https://raw.iqiq.io/FongMi/CatVodSpider/main/jar/custom_spider.jar"
         },
         {
@@ -106,7 +106,7 @@
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 0,
-            "ext": "http://刚刚.live/json/alitoken.json"
+            "ext": "https://agit.ai/Ltang/Tvsy/raw/branch/master/token.json"
         },
         {
             "key": "csp_⬇️SP影视⬇️",
