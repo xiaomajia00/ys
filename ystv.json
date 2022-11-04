@@ -669,7 +669,7 @@
             "searchable": 1,
             "quickSearch": 0,
             "filterable": 1,
-            "ext": "./sites/🅱️哔哩哔哩.json",
+            "ext": "./sites/bili.json",
             "jar": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar"
         },
         {
