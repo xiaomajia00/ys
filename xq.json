@@ -735,6 +735,15 @@
             "jar": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar"
         },
         {
+    "key": "Bili_jiaoyu",
+    "name": "教育",
+    "type": 3,
+    "api": "csp_Bili",
+    "searchable": 1,
+    "ext": "./sites/jiaoyu.json",
+    "jar": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar"
+  },
+        {
             "key": "csp_bili天地",
             "name": "⬇️【bili天地】⬇️",
             "type": 3,
