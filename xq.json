@@ -729,7 +729,8 @@
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 1,
-            "ext": "./sites/🐯儿童乐园.json"
+            "ext": "./sites/🐯儿童乐园.json",
+            https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar
         },
         {
             "key": "学习",
@@ -739,7 +740,8 @@
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 1,
-            "ext": "./sites/🐯学习园地.json"
+            "ext": "./sites/🐯学习园地.json",
+            https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar
         },
         {
             "key": "csp_bili天地",
@@ -769,7 +771,8 @@
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 1,
-            "ext": "./sites/📚软件教程.json"
+            "ext": "./sites/📚软件教程.json",
+            https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar
         },
         {
             "key": "美食",
@@ -779,7 +782,8 @@
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 1,
-            "ext": "./sites/🍔美食合集.json"
+            "ext": "./sites/🍔美食合集.json",
+            https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar
         },
         {
             "key": "音乐",
@@ -789,7 +793,8 @@
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 1,
-            "ext": "./sites/🎤音乐现场.json"
+            "ext": "./sites/🎤音乐现场.json",
+            https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar
         },
         {
             "key": "热舞",
@@ -799,7 +804,8 @@
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 1,
-            "ext": "./sites/💃女团热舞.json"
+            "ext": "./sites/💃女团热舞.json",
+            https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar
         },
         {
             "key": "戏曲",
@@ -809,7 +815,8 @@
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 1,
-            "ext": "./sites/👘戏曲合集.json"
+            "ext": "./sites/👘戏曲合集.json",
+            https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar
         },
         {
             "key": "360_spider",
