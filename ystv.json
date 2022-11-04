@@ -83,9 +83,9 @@
             "type": 3,
             "api": "csp_YiSo",
             "searchable": 1,
-            "quickSearch": 1,
             "filterable": 0,
-            "ext": "https://agit.ai/Ltang/Tvsy/raw/branch/master/token.json"
+            "ext": "https://agit.ai/Ltang/Tvsy/raw/branch/master/token.json",
+            https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar
         },
         {
             "key": "PanSou",
@@ -102,11 +102,11 @@
             "key": "push_agent",
             "name": "📨推送",
             "type": 3,
-            "api": "csp_PushAgent",
+            "api": "csp_Push",
             "searchable": 0,
-            "quickSearch": 0,
             "filterable": 0,
-            "ext": "https://agit.ai/Ltang/Tvsy/raw/branch/master/token.json"
+            "ext": "https://agit.ai/Ltang/Tvsy/raw/branch/master/token.json",
+            https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar
         },
         {
             "key": "csp_⬇️SP影视⬇️",
