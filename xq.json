@@ -558,15 +558,6 @@
             "ext": "./sites/小宝影院.json"
         },
         {
-            "key": "唐人街",
-            "name": " 🍁唐人街",
-            "type": 0,
-            "api": "https: //www.tangrenjie.tv/api.php/provide/vod/at/xml",
-            "searchable": 1,
-            "quickSearch": 0,
-            "filterable": []
-        },
-        {
             "key": "csp_⬇️动漫⬇️",
             "name": "⬇️【动漫网站】⬇️",
             "type": 3,
@@ -730,7 +721,7 @@
             "quickSearch": 0,
             "filterable": 1,
             "ext": "./sites/🐯儿童乐园.json",
-            https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar
+            "jar": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar"
         },
         {
             "key": "学习",
@@ -741,7 +732,7 @@
             "quickSearch": 0,
             "filterable": 1,
             "ext": "./sites/🐯学习园地.json",
-            https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar
+            "jar": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar"
         },
         {
             "key": "csp_bili天地",
@@ -772,7 +763,7 @@
             "quickSearch": 0,
             "filterable": 1,
             "ext": "./sites/📚软件教程.json",
-            https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar
+            "jar": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar"
         },
         {
             "key": "美食",
@@ -783,7 +774,7 @@
             "quickSearch": 0,
             "filterable": 1,
             "ext": "./sites/🍔美食合集.json",
-            https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar
+            "jar": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar"
         },
         {
             "key": "音乐",
@@ -794,7 +785,7 @@
             "quickSearch": 0,
             "filterable": 1,
             "ext": "./sites/🎤音乐现场.json",
-            https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar
+            "jar": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar"
         },
         {
             "key": "热舞",
@@ -805,7 +796,7 @@
             "quickSearch": 0,
             "filterable": 1,
             "ext": "./sites/💃女团热舞.json",
-            https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar
+            "jar": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar"
         },
         {
             "key": "戏曲",
@@ -816,7 +807,7 @@
             "quickSearch": 0,
             "filterable": 1,
             "ext": "./sites/👘戏曲合集.json",
-            https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar
+            "jar": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar"
         },
         {
             "key": "360_spider",
