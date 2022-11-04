@@ -34,7 +34,7 @@
             "quickSearch": 0,
             "filterable": 0,
             "ext": "./Alist.json",
-            "jar": "https://raw.fastgit.org/FongMi/CatVodSpider/main/jar/custom_spider.jar"
+            "jar": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar"
         },
         {
             "key": "py_Alist",
@@ -55,7 +55,7 @@
             "quickSearch": 1,
             "filterable": 0,
             "ext": "https://agit.ai/Ltang/Tvsy/raw/branch/master/token.json",
-            "jar": "https://raw.fastgit.org/FongMi/CatVodSpider/main/jar/custom_spider.jar"
+            "jar": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar"
         },
         {
             "key": "FindZY",
@@ -96,7 +96,7 @@
             "quickSearch": 1,
             "filterable": 0,
             "ext": "https://agit.ai/Ltang/Tvsy/raw/branch/master/token.json",
-            "jar": "https://raw.fastgit.org/FongMi/CatVodSpider/main/jar/custom_spider.jar"
+            "jar": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar"
         },
         {
             "key": "push_agent",
@@ -491,7 +491,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "jar": "https://raw.fastgit.org/FongMi/CatVodSpider/main/jar/custom_spider.jar"
+            "jar": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar"
         },
         {
             "key": "巴士",
@@ -501,7 +501,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "jar": "https://raw.fastgit.org/FongMi/CatVodSpider/main/jar/custom_spider.jar"
+            "jar": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar"
         },
         {
             "key": "異界",
@@ -511,7 +511,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "jar": "https://raw.fastgit.org/FongMi/CatVodSpider/main/jar/custom_spider.jar"
+            "jar": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar"
         },
         {
             "key": "csp_Anime1",
@@ -638,7 +638,7 @@
             "quickSearch": 0,
             "filterable": 1,
             "ext": "./sites/🐯儿童乐园.json",
-            "jar": "https://raw.fastgit.org/FongMi/CatVodSpider/main/jar/custom_spider.jar"
+            "jar": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar"
 
         },
         {
@@ -650,7 +650,7 @@
             "quickSearch": 0,
             "filterable": 1,
             "ext": "./sites/🐯学习园地.json",
-            "jar": "https://raw.fastgit.org/FongMi/CatVodSpider/main/jar/custom_spider.jar"
+            "jar": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar"
         },
         {
             "key": "csp_bili天地",
@@ -670,7 +670,7 @@
             "quickSearch": 0,
             "filterable": 1,
             "ext": "./sites/🅱️哔哩哔哩.json",
-            "jar": "https://raw.fastgit.org/FongMi/CatVodSpider/main/jar/custom_spider.jar"
+            "jar": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar"
         },
         {
             "key": "软件",
@@ -681,7 +681,7 @@
             "quickSearch": 0,
             "filterable": 1,
             "ext": "./sites/📚软件教程.json",
-            "jar": "https://raw.fastgit.org/FongMi/CatVodSpider/main/jar/custom_spider.jar"
+            "jar": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar"
         },
         {
             "key": "美食",
@@ -692,7 +692,7 @@
             "quickSearch": 0,
             "filterable": 1,
             "ext": "./sites/🍔美食合集.json",
-            "jar": "https://raw.fastgit.org/FongMi/CatVodSpider/main/jar/custom_spider.jar"
+            "jar": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar"
         },
         {
             "key": "音乐",
@@ -703,7 +703,7 @@
             "quickSearch": 0,
             "filterable": 1,
             "ext": "./sites/🎤音乐现场.json",
-            "jar": "https://raw.fastgit.org/FongMi/CatVodSpider/main/jar/custom_spider.jar"
+            "jar": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar"
         },
         {
             "key": "热舞",
@@ -714,7 +714,7 @@
             "quickSearch": 0,
             "filterable": 1,
             "ext": "./sites/💃女团热舞.json",
-            "jar": "https://raw.fastgit.org/FongMi/CatVodSpider/main/jar/custom_spider.jar"
+            "jar": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar"
         },
         {
             "key": "戏曲",
@@ -725,7 +725,7 @@
             "quickSearch": 0,
             "filterable": 1,
             "ext": "./sites/👘戏曲合集.json",
-            "jar": "https://raw.fastgit.org/FongMi/CatVodSpider/main/jar/custom_spider.jar"
+            "jar": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar"
         },
         {
             "key": "360_spider",
