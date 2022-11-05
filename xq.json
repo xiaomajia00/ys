@@ -360,7 +360,8 @@
             "api": "csp_IKan",
             "searchable": 1,
             "quickSearch": 1,
-            "filterable": 1
+            "filterable": 1,
+            "jar": "./jar/ts.jar"
         },
         {
             "key": "快看",
