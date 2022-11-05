@@ -266,8 +266,7 @@
             "api": "csp_AppTT",
             "searchable": 1,
             "quickSearch": 1,
-            "filterable": 1,
-            "jar": "./jar/ts.jar"
+            "filterable": 1
         },
         {
             "key": "csp_Nmys",
@@ -286,8 +285,7 @@
             "api": "csp_Czsapp",
             "searchable": 1,
             "quickSearch": 1,
-            "filterable": 0,
-            "jar": "./jar/ts.jar"
+            "filterable": 1
         },
         {
             "key": "Yanet",
@@ -306,8 +304,7 @@
             "api": "csp_Lgyy",
             "searchable": 1,
             "quickSearch": 1,
-            "filterable": 1,
-            "jar": "./jar/ts.jar"
+            "filterable": 1
         },
         {
             "key": "csp_zxzj",
@@ -354,8 +351,7 @@
             "api": "csp_Zjdr",
             "searchable": 1,
             "quickSearch": 1,
-            "filterable": 1,
-            "jar": "./jar/ts.jar"
+            "filterable": 1
         },
         {
             "key": "IKan",
@@ -364,8 +360,7 @@
             "api": "csp_IKan",
             "searchable": 1,
             "quickSearch": 1,
-            "filterable": 1,
-            "jar": "./jar/ts.jar"
+            "filterable": 1
         },
         {
             "key": "快看",
@@ -383,8 +378,7 @@
             "api": "csp_Smdyy",
             "searchable": 1,
             "quickSearch": 1,
-            "filterable": 1,
-            "jar": "./jar/ts.jar"
+            "filterable": 1
         },
         {
             "key": "Cokemv",
@@ -393,8 +387,7 @@
             "api": "csp_Cokemv",
             "searchable": 1,
             "quickSearch": 1,
-            "filterable": 1,
-            "jar": "./jar/ts.jar"
+            "filterable": 1
         },
         {
             "key": "csp_Lib",
@@ -403,8 +396,7 @@
             "api": "csp_Lib",
             "searchable": 1,
             "quickSearch": 1,
-            "filterable": 1,
-            "jar": "./jar/ts.jar"
+            "filterable": 1
         },
         {
             "key": "csp_dd5555",
@@ -413,8 +405,7 @@
             "type": 3,
             "filterable": 1,
             "quickSearch": 1,
-            "searchable": 1,
-            "jar": "./jar/ts.jar"
+            "searchable": 1
         },
         {
             "key": "293视频",
