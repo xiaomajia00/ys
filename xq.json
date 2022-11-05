@@ -202,6 +202,56 @@
             "jar": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar"
         },
         {
+            "key": "py_gitcafe",
+            "name": "💡小纸条┃PY",
+            "type": 3,
+            "api": "py_gitcafe",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/lm317379829/PyramidStore/pyramid/plugin/py_gitcafe.py"
+        },
+        {
+            "key": "py_yiso",
+            "name": "💡易搜┃PY",
+            "type": 3,
+            "api": "py_yiso",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/lm317379829/PyramidStore/pyramid/plugin/py_yiso.py"
+        },
+        {
+            "key": "py_zhaozy",
+            "name": "💡找资源┃PY",
+            "type": 3,
+            "api": "py_zhaozy",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/lm317379829/PyramidStore/pyramid/plugin/py_zhaozy.py"
+        },
+        {
+            "key": "py_pansou",
+            "name": "💡盘搜┃PY",
+            "type": 3,
+            "api": "py_pansou",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/lm317379829/PyramidStore/pyramid/plugin/py_pansou.py"
+        },
+        {
+            "key": "push_agent",
+            "name": "💡阿里┃PY",
+            "type": 3,
+            "api": "py_ali",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 0,
+            "ext": "./PY/py_ali.py"
+        }
+        {
             "key": "csp_⬇️SP影视⬇️",
             "name": "⬇️【SP影视】⬇️",
             "type": 3,
