@@ -242,7 +242,7 @@
             "ext": "https://ghproxy.com/https://raw.githubusercontent.com/lm317379829/PyramidStore/pyramid/plugin/py_pansou.py"
         },
         {
-            "key": "push_agent",
+            "key": "push_agent(py)",
             "name": "💡阿里┃PY",
             "type": 3,
             "api": "py_ali",
