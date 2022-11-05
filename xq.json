@@ -1,5 +1,5 @@
 {
-    "spider": "https://agit.ai/Ltang/Tvsy/raw/branch/master/jar/神器.jar",
+    "spider": "https://agit.ai/Ltang/Tvsy/raw/branch/master/jar/饭太硬.jar",
     "wallpaper": "http://maoyingshi.cc/api.php",
     "lives": [
         {
@@ -142,14 +142,15 @@
             "ext": "./PY/py_alist.py"
         },
         {
-            "key": "Gitcafe",
-            "name": "🔖小纸条",
+            "key": "紙條",
+            "name": "🔖紙條",
             "type": 3,
-            "api": "csp_Gitcafe",
+            "api": "csp_Paper",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "https://agit.ai/Ltang/Tvsy/raw/branch/master/token.json"
+            "ext": "https://agit.ai/Ltang/Tvsy/raw/branch/master/token.json",
+            "jar": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar"
         },
         {
             "key": "FindZY",
@@ -179,27 +180,29 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "https://agit.ai/Ltang/Tvsy/raw/branch/master/token.json"
+            "ext": "https://agit.ai/Ltang/Tvsy/raw/branch/master/token.json",
+            "jar": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar"
         },
         {
-            "key": "AliPS",
-            "name": "📀盘搜",
+            "key": "PanSou",
+            "name": "📀盤搜",
             "type": 3,
-            "api": "csp_AliPS",
+            "api": "csp_PanSou",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "https://agit.ai/Ltang/Tvsy/raw/branch/master/token.json"
+            "ext": "https://agit.ai/Ltang/Tvsy/raw/branch/master/token.json",
+            "jar": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar"
         },
         {
             "key": "push_agent",
             "name": "📨推送",
             "type": 3,
-            "api": "csp_PushAgent",
+            "api": "csp_Push",
             "searchable": 0,
-            "quickSearch": 0,
             "filterable": 0,
-            "ext": "https://agit.ai/Ltang/Tvsy/raw/branch/master/token.json"
+            "ext": "https://agit.ai/Ltang/Tvsy/raw/branch/master/token.json",
+            "jar": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar"
         },
         {
             "key": "csp_⬇️SP影视⬇️",
@@ -720,8 +723,7 @@
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 1,
-            "ext": "./sites/🐯儿童乐园.json",
-            "jar": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar"
+            "ext": "./sites/🐯儿童乐园.json"
         },
         {
             "key": "学习",
@@ -731,18 +733,8 @@
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 1,
-            "ext": "./sites/🐯学习园地.json",
-            "jar": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar"
+            "ext": "./sites/🐯学习园地.json"
         },
-        {
-    "key": "Bili_jiaoyu",
-    "name": "教育",
-    "type": 3,
-    "api": "csp_Bili",
-    "searchable": 1,
-    "ext": "./sites/jiaoyu.json",
-    "jar": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar"
-  },
         {
             "key": "csp_bili天地",
             "name": "⬇️【bili天地】⬇️",
@@ -760,8 +752,7 @@
             "searchable": 1,
             "quickSearch": 0,
             "filterable": 1,
-            "ext": "./sites/🅱️哔哩哔哩.json",
-            "jar": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar"
+            "ext": "./sites/🅱️哔哩哔哩.json"
         },
         {
             "key": "软件",
@@ -771,8 +762,7 @@
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 1,
-            "ext": "./sites/📚软件教程.json",
-            "jar": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar"
+            "ext": "./sites/📚软件教程.json"
         },
         {
             "key": "美食",
@@ -782,8 +772,7 @@
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 1,
-            "ext": "./sites/🍔美食合集.json",
-            "jar": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar"
+            "ext": "./sites/🍔美食合集.json"
         },
         {
             "key": "音乐",
@@ -793,8 +782,7 @@
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 1,
-            "ext": "./sites/🎤音乐现场.json",
-            "jar": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar"
+            "ext": "./sites/🎤音乐现场.json"
         },
         {
             "key": "热舞",
@@ -804,8 +792,7 @@
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 1,
-            "ext": "./sites/💃女团热舞.json",
-            "jar": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar"
+            "ext": "./sites/💃女团热舞.json"
         },
         {
             "key": "戏曲",
@@ -815,8 +802,7 @@
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 1,
-            "ext": "./sites/👘戏曲合集.json",
-            "jar": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar"
+            "ext": "./sites/👘戏曲合集.json"
         },
         {
             "key": "360_spider",
