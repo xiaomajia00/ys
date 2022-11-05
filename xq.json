@@ -176,9 +176,8 @@
             "key": "csp_Yiso",
             "name": "🔍易搜",
             "type": 3,
-            "api": "csp_Yiso",
+            "api": "csp_YiSo",
             "searchable": 1,
-            "quickSearch": 1,
             "filterable": 0,
             "ext": "https://agit.ai/Ltang/Tvsy/raw/branch/master/token.json",
             "jar": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar"
