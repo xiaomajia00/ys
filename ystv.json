@@ -52,8 +52,7 @@
             "type": 3,
             "api": "csp_Paper",
             "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
+            "filterable": 1,
             "ext": "https://agit.ai/Ltang/Tvsy/raw/branch/master/token.json",
             "jar": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar"
         },
@@ -93,7 +92,6 @@
             "type": 3,
             "api": "csp_PanSou",
             "searchable": 1,
-            "quickSearch": 1,
             "filterable": 0,
             "ext": "https://agit.ai/Ltang/Tvsy/raw/branch/master/token.json",
             "jar": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar"
@@ -103,7 +101,7 @@
             "name": "📨推送",
             "type": 3,
             "api": "csp_Push",
-            "searchable": 0,
+            "searchable": 1,
             "filterable": 0,
             "ext": "https://agit.ai/Ltang/Tvsy/raw/branch/master/token.json",
             "jar": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar"
