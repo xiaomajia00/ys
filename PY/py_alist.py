@@ -26,7 +26,7 @@ class Spider(Spider):  # 元类 默认的元类 type
         result = {}
         cateManual = {
     "💂MyAlist": "http://192.168.10.1:5244",
-    "👧晓雅网盘": "http://101.34.67.237:5244",
+    "👧小雅网盘": "http://alist.xiaoya.pro",
     "🎢轻弹浅唱": "https://g.xiang.lol",
     "🌤晴园宝藏": "https://alist.52qy.repl.co",
     "💂小兵网盘": "https://6vv.app",
@@ -36,13 +36,12 @@ class Spider(Spider):  # 元类 默认的元类 type
     "✨星梦": "https://pan.bashroot.top",
     "🌊小江": "https://dyj.me",
     "💫触光": "https://pan.ichuguang.com",
-    "🥼帅盘": "https://hi.shuaipeng.wang",
+    "🌻菊花盘": "https://pan.142856.xyz",
     "🐋一只鱼": "https://alist.youte.ml",
     "🌊七米蓝": "https://al.chirmyram.com",
     "🐭米奇妙屋": "https://anime.mqmmw.ga",
     "☃姬路白雪": "https://pan.jlbx.xyz",
-    "🦀9T(Adult)": "https://drive.9t.ee",
-    "🎡资源小站": "https://960303.xyz"
+    "🦀9T(Adult)": "https://drive.9t.ee"
         }
         classes = []
         for k in cateManual:
