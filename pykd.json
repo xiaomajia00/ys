@@ -1,0 +1,47 @@
+{
+    "Alist": {
+    "💂MyAlist": "http://192.168.10.1:5244",
+    "👧小雅网盘": "http://alist.xiaoya.pro",
+    "📽杜比空间": "https://dubi.tk",
+    "🎢轻弹浅唱": "https://g.xiang.lol",
+    "🌤晴园宝藏": "https://alist.52qy.repl.co",
+    "💂小兵网盘": "https://6vv.app",
+    "🌨秋雨分享": "https://share.laowang.me",
+    "🐉神族九帝": "https://alist.shenzjd.com",
+    "💾DISK": "http://124.222.140.243:8080",
+    "✨星梦": "https://pan.bashroot.top",
+    "🌊小江": "https://dyj.me",
+    "💫触光": "https://pan.ichuguang.com",
+    "🌻菊花盘": "https://pan.142856.xyz",
+    "🐋一只鱼": "https://alist.youte.ml",
+    "🌊七米蓝": "https://al.chirmyram.com",
+    "🐭米奇妙屋": "https://anime.mqmmw.ga",
+    "☃姬路白雪": "https://pan.jlbx.xyz",
+    "🦀9T(Adult)": "https://drive.9t.ee"
+},
+    "Ali": {
+        "token": "https://agit.ai/Ltang/Tvsy/raw/branch/master/token.json"
+    },
+    "Zhibo": [
+        {
+            "pf": "douyu",
+            "id": "208",
+            "name": "斗鱼-一起看"
+        },
+        {
+            "pf": "bilibili",
+            "id": "6",
+            "name": "B站-单机游戏"
+        },
+        {
+            "pf": "huya",
+            "id": "2135",
+            "name": "虎牙-一起看"
+        },
+        {
+            "pf": "sport",
+            "id": "sport",
+            "name": "体育-全部"
+        }
+    ]
+}
