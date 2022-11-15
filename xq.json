@@ -127,9 +127,8 @@
             "type": 3,
             "api": "csp_Alist",
             "searchable": 1,
-            "quickSearch": 0,
-            "filterable": 0,
-            "ext": "./Alist.json"
+            "ext": "./Alist.json",
+            "jar": "./jar/cs.jar"
         },
         {
             "key": "py_Alist",
@@ -145,11 +144,12 @@
             "key": "紙條",
             "name": "🔖紙條",
             "type": 3,
-            "api": "csp_Paper",
-            "searchable": 1,
-            "filterable": 1,
+            "api": "csp_Gitcafe",
+            "searchable": "1",
+            "quickSearch": "1",
+            "filterable": "1",
             "ext": "https://agit.ai/Ltang/Tvsy/raw/branch/master/token.json",
-            "jar": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar"
+            "jar": "./jar/cs.jar"
         },
         {
             "key": "FindZY",
@@ -159,7 +159,8 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "https://agit.ai/Ltang/Tvsy/raw/branch/master/token.json"
+            "ext": "https://agit.ai/Ltang/Tvsy/raw/branch/master/token.json",
+            "jar": "./jar/cs.jar"
         },
         {
             "key": "Upyunso",
@@ -176,20 +177,22 @@
             "name": "🔍易搜",
             "type": 3,
             "api": "csp_YiSo",
-            "searchable": 1,
-            "filterable": 0,
+            "searchable": "1",
+            "quickSearch": "1",
+            "filterable": "1",
             "ext": "https://agit.ai/Ltang/Tvsy/raw/branch/master/token.json",
-            "jar": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar"
+            "jar": "./jar/cs.jar"
         },
         {
             "key": "PanSou",
             "name": "📀盤搜",
             "type": 3,
-            "api": "csp_PanSou",
-            "searchable": 1,
-            "filterable": 0,
+            "api": "csp_AliPS",
+            "searchable": "1",
+            "quickSearch": "1",
+            "filterable": "1",
             "ext": "https://agit.ai/Ltang/Tvsy/raw/branch/master/token.json",
-            "jar": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar"
+            "jar": "./jar/cs.jar"
         },
         {
             "key": "py_gitcafe",
