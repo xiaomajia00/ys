@@ -125,7 +125,7 @@
             "key": "csp_Alist",
             "name": "🗂Alist",
             "type": 3,
-            "api": "csp_Alist",
+            "api": "csp_AList",
             "searchable": 1,
             "ext": "./Alist.json",
             "jar": "./jar/cs.jar"
