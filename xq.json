@@ -166,11 +166,12 @@
             "key": "Upyunso",
             "name": "🌤UP云搜",
             "type": 3,
-            "api": "csp_Upyunso",
+            "api": "csp_Upso",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "https://agit.ai/Ltang/Tvsy/raw/branch/master/token.json"
+            "ext": "https://agit.ai/Ltang/Tvsy/raw/branch/master/token.json",
+            "jar": "./jar/cs.jar"
         },
         {
             "key": "csp_Yiso",
