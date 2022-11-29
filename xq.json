@@ -122,13 +122,14 @@
             "filterable": 0
         },
         {
-            "key": "csp_Alist",
+            "key": "Alist",
             "name": "🗂Alist",
             "type": 3,
             "api": "csp_AList",
             "searchable": 1,
+            "filterable": 1,
             "ext": "./Alist.json",
-            "jar": "https://raw.iqiq.io/FongMi/CatVodSpider/main/jar/custom_spider.jar"
+            "jar": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar"
         },
         {
             "key": "py_Alist",
