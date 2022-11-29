@@ -25,7 +25,7 @@
             "filterable": 0
         },
         {
-            "key": "csp_Alist",
+            "key": "AList",
             "name": "🗂Alist",
             "type": 3,
             "api": "csp_AList",
