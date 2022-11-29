@@ -128,7 +128,7 @@
             "api": "csp_AList",
             "searchable": 1,
             "ext": "./Alist.json",
-            "jar": "./jar/cs.jar"
+            "jar": "https://raw.iqiq.io/FongMi/CatVodSpider/main/jar/custom_spider.jar"
         },
         {
             "key": "py_Alist",
