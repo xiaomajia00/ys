@@ -122,8 +122,8 @@
             "filterable": 0
         },
         {
-            "key": "AList",
-            "name": "🗂AList",
+           "key": "AList",
+            "name": "AList",
             "type": 3,
             "api": "csp_AList",
             "searchable": 1,
