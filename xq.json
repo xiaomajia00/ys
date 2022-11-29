@@ -122,13 +122,13 @@
             "filterable": 0
         },
         {
-            "key": "Alist",
-            "name": "🗂Alist",
+            "key": "AList",
+            "name": "🗂AList",
             "type": 3,
             "api": "csp_AList",
             "searchable": 1,
             "filterable": 1,
-            "ext": "./Alist.json",
+            "ext": "https://agit.ai/Ltang/Tvsy/raw/branch/master/Alist.json",
             "jar": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar"
         },
         {
