@@ -129,7 +129,7 @@
             "searchable": 1,
             "filterable": 1,
             "ext": "./Alist.json",
-            "jar": "./jar/cs.jar"
+            "jar": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar;md5;aa1aaf2c71abcb2b2da5db8301c1e3da"
         },
         {
             "key": "py_Alist",
@@ -582,7 +582,8 @@
             "api": "csp_Nbys",
             "searchable": 1,
             "quickSearch": 1,
-            "filterable": 1
+            "filterable": 1,
+            "jar": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar;md5;aa1aaf2c71abcb2b2da5db8301c1e3da"
         },
         {
             "key": "If101",
