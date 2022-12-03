@@ -21,13 +21,18 @@
             "type": "alist"
         },
         {
+            "name": "👧仙女丫",
+            "server": "http://192.168.10.1:5678",
+            "type": "alist"
+        },
+        {
             "name": "👧小雅网盘",
             "server": "http://alist.xiaoya.pro",
             "type": "alist"
         },
         {
-            "name": "🎢轻弹浅唱",
-            "server": "https://g.xiang.lol",
+            "name": "📽杜比空间",
+            "server": "https://dubi.tk",
             "type": "alist"
         },
         {
