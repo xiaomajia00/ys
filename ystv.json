@@ -1527,7 +1527,7 @@
             "ext": "./sites/6d.json"
         },
         {
-            "key": "csp_xp_美剧虫",
+            "key": "csp_xpath_mjc",
             "name": " 💢美剧虫",
             "type": 3,
             "api": "csp_XPathFilter",
