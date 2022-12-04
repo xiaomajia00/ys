@@ -5,7 +5,7 @@
   "dcVipFlag": "true",
   "dcPlayUrl": "true",
   
-  "cateNode": "//li[contains(@class,'swiper-slide navbar-item')]/a[contains(@href, 'vodtype')]",
+  "cateNode": "//div[contains(@class,'smlist_box list_m')]//a[contains(@href, 'vodtype')]",
  
   "cateName": "/@title",
   
@@ -18,64 +18,68 @@
   "cateManual": {},
 
   
-  "cateUrl": "https://meijuchong.cc/vodshow/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
+  "cateUrl": "https://meijuchong.cc/vodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html",
   
-  "cateVodNode": "//a[contains(@class,'module-poster-item module-item')]",
+  "cateVodNode": "//li[contains(@class,'vodlist_item')]",
   
-  "cateVodName": "//@title",
+  "cateVodName": "/a/@title",
   
-  "cateVodId": "//@href",
+  "cateVodId": "/a/@href",
   
   "cateVodIdR": "/voddetail/(\\S+).html",
   
-  "cateVodImg": "//div[contains(@class,'module-item-pic')]//img/@data-original",
+  "cateVodImg": "/a/@data-original",
   
   "cateVodImgR": "",
   
-  "cateVodMark": "//div[contains(@class,'module-item-note')]/text()",
+  "cateVodMark": "//span[contains(@class,'xszxj text_right')]/text()",
+  "cateVodMarkR": "",
   
-	"dtUrl": "https://meijuchong.cc/voddetail/{vid}.html",
+  
+	"dtUrl": "https://meijuchong.cc/vodplay/{vid}-1-1.html",
     // 详情节点
-	"dtNode": "//div[@class='main']",
+	"dtNode": "//body",
     // 视频名
-	"dtName": "//img[contains(@class,'ls-is-cached lazy lazyload')]/@alt",
+	"dtName": "//span[contains(@class,'hl_history hide')]/@data-name",
 	"dtNameR": "",
     // 视频图片
-	"dtImg": "//img[contains(@class,'ls-is-cached lazy lazyload')]/@data-original",
+	"dtImg": "//span[contains(@class,'hl_history hide')]/@data-pic",
 	"dtImgR": "\\S+(http\\S+)",
 	
 	"dtCate": "",
   "dtCateR": "",
-  "dtYear": "//a[contains(@href,'year')]/text()",
+  //年
+  "dtYear": "//p[contains(text(),'年份')]/a[1]/text()",
   "dtYearR": "",
-  "dtArea": "//a[contains(@href,'area')]/text()",
+  //地区
+  "dtArea": "//p[contains(text(),'地区')]/a[2]/text()",
   "dtAreaR": "",
-  "dtMark": " //p[@class='module-info-item-content']/text()",
+  "dtMark": "",
   "dtMarkR": "",
-  "dtActor": " //a[contains(@href,'actor')]/text()",
-  "dtActorR": "",
-  "dtDirector": " //a[contains(@href,'director')]/text()",
-  "dtDirectorR": "",
-  "dtDesc": "//div[contains(@class,'module-blocklist scroll-box scroll-box-y module-player-list')]/span/text()
-",
-  "dtDescR": "",
+  "dtActor": "//p[contains(text(),'主演')]/allText()",
+  "dtActorR": "([^主演：]+)",
+  "dtDirector": "//p[contains(text(),'导演')]/allText()",
+  "dtDirectorR": "([^导演：]+)",
+  //简介
+  "dtDesc": "//div[@class='panel play_content']/p[3]/text()",
+  "dtDescR": "([^@豆瓣]+)",
   
     // 播放源节点
-	"dtFromNode": "//div[contains(@class,'module-tab-item tab-item')]",
+	"dtFromNode": "//a[contains(text(), '量')]",
     // 播放源名称
-	"dtFromName": "/span/text()",
+	"dtFromName": "/text()",
     // 二次处理正则
 	"dtFromNameR": "",
     // 播放列表节点
-	"dtUrlNode": "//div[contains(@class,'module-play-list-content  module-play-list-')]",
+	"dtUrlNode": "//ul[contains(@class,'content_playlist list_scroll clearfix')]",
     // 播放地址节点
-	"dtUrlSubNode": "/a",
+	"dtUrlSubNode": "/li/a",
     // 播放地址
 	"dtUrlId": "/@href",
     // 二次处理正则
 	"dtUrlIdR": "/vodplay/(\\S+).html",
     // 剧集名称
-	"dtUrlName": "/span/text()",
+	"dtUrlName": "/text()",
     // 二次处理正则
 	"dtUrlNameR": "",
     // 播放页面的地址 {playUrl} 对应上面 dtUrlId 获取到的地址
@@ -85,12 +89,16 @@
 
   
  
-  "searchUrl": "https://meijuchong.cc/vodsearch.html?wd={wd}",
-  "scVodNode": "//div[contains(@class,'module-card-item module-item')]",
-  "scVodName": "//img[contains(@data-original,'http')]/@alt",
-  "scVodId": "//a[contains(@href,'voddetail')]/@href",
+  "searchUrl": "http://meijuchong.cc/vodsearch/-------------.html?wd={wd}&submit=",
+  //节点
+  "scVodNode": "//div[contains(@class, 'searchlist_img')]",
+  //名称
+  "scVodName": "/a/@title",
+  //地址
+  "scVodId": "/a/@href",
   "scVodIdR": "/voddetail/(\\S+).html",
-  "scVodImg": "//img[contains(@data-original,'http')]/@data-original",
+  //图片
+  "scVodImg": "/a/@data-original",
   "scVodMark": "",
   "filter": {
     "1": [
