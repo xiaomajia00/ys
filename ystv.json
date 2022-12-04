@@ -32,7 +32,7 @@
             "searchable": 1,
             "filterable": 1,
             "ext": "./Alist.json",
-            "jar": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar;md5;aa1aaf2c71abcb2b2da5db8301c1e3da"
+            "jar": "./jar/cs.jar"
         },
         {
             "key": "py_Alist",
@@ -1527,10 +1527,10 @@
             "ext": "./sites/6d.json"
         },
         {
-            "key": "csp_xpath_mjc",
+            "key": "csp_xp_美剧虫",
             "name": " 💢美剧虫",
             "type": 3,
-            "api": "csp_XPathFilter",
+            "api": "csp_XPathMacFilter",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
