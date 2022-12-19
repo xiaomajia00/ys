@@ -1,5 +1,5 @@
 {
-    "spider": "https://agit.ai/Ltang/Tvsy/raw/branch/master/jar/饭太硬.jar",
+    "spider": "https://codeberg.org/kkdy/box/raw/branch/main/jar/饭太硬.jar",
     "wallpaper": "http://maoyingshi.cc/api.php",
     "lives": [
         {
@@ -52,7 +52,7 @@
             "searchable": "1",
             "quickSearch": "1",
             "filterable": "1",
-            "ext": "https://agit.ai/Ltang/Tvsy/raw/branch/master/token.json",
+            "ext": "https://codeberg.org/kkdy/box/raw/branch/main/token.json",
             "jar": "./jar/cs.jar"
         },
         {
@@ -63,7 +63,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "https://agit.ai/Ltang/Tvsy/raw/branch/master/token.json",
+            "ext": "https://codeberg.org/kkdy/box/raw/branch/main/token.json",
             "jar": "./jar/cs.jar"
         },
         {
@@ -74,7 +74,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "https://agit.ai/Ltang/Tvsy/raw/branch/master/token.json",
+            "ext": "https://codeberg.org/kkdy/box/raw/branch/main/token.json",
             "jar": "./jar/cs.jar"
         },
         {
@@ -85,7 +85,7 @@
             "searchable": "1",
             "quickSearch": "1",
             "filterable": "1",
-            "ext": "https://agit.ai/Ltang/Tvsy/raw/branch/master/token.json",
+            "ext": "https://codeberg.org/kkdy/box/raw/branch/main/token.json",
             "jar": "./jar/cs.jar"
         },
         {
@@ -96,7 +96,7 @@
             "searchable": "1",
             "quickSearch": "1",
             "filterable": "1",
-            "ext": "https://agit.ai/Ltang/Tvsy/raw/branch/master/token.json",
+            "ext": "https://codeberg.org/kkdy/box/raw/branch/main/token.json",
             "jar": "./jar/cs.jar"
         },
         {
@@ -107,7 +107,7 @@
             "searchable": "1",
             "quickSearch": "1",
             "filterable": "1",
-            "ext": "https://agit.ai/Ltang/Tvsy/raw/branch/master/token.json",
+            "ext": "https://codeberg.org/kkdy/box/raw/branch/main/token.json",
             "jar": "./jar/cs.jar"
         },
         {
@@ -138,7 +138,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "http://43.154.35.148:9797/api/tutuapp.php"
+            "ext": "http://121.205.88.126:7788"
         },
         {
             "key": "csp_fant",
@@ -146,6 +146,15 @@
             "type": 3,
             "api": "csp_Fantuan",
             "playerType": 2,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "csp_panghu",
+            "name": "🐯胖虎┃SP",
+            "type": 3,
+            "api": "csp_Panghu",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
@@ -331,16 +340,6 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
-        },
-        {
-            "key": "KanSJ_spider",
-            "name": "🦅看视界┃SP",
-            "api": "csp_KanSJ",
-            "type": 3,
-            "filterable": 1,
-            "quickSearch": 1,
-            "searchable": 1,
-            "ext": ""
         },
         {
             "key": "csp_Auete",
