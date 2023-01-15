@@ -108,7 +108,7 @@
             "quickSearch": "1",
             "filterable": "1",
             "ext": "https://codeberg.org/kkdy/box/raw/branch/main/token.json",
-            "jar": "./jar/cs.jar"
+            "jar": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar;md5;e4f7f2bc171ddcf963e249003caa9b40"
         },
         {
             "key": "csp_⬇️SP影视⬇️",
